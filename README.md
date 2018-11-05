@@ -1,9 +1,9 @@
 # modulo-compras
 
 ### Rotas públicas
-  - http://localhost:8080/invetario/listaProdutos 
-  - http://localhost:8080/produtos/listar 
+  - http://localhost:8092/invetario/listaProdutos 
+  - http://localhost:8092/produtos/listar 
 
 ### Rotas privadas
-  - http://localhost:8080/compras/realizarCompra
-  - http://localhost:8080/compras/listarCompras
+  - http://localhost:8092/compras/realizarCompra
+  - http://localhost:8092/compras/listarCompras
